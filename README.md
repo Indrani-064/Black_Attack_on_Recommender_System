@@ -1,5 +1,3 @@
-# Black_Attack_on_Recommender_System
-The RecSys-Model-Extraction-Attack repository is the PyTorch Implementation of RecSys 2021 Paper Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction
 # Introduction
 
 The RecSys-Model-Extraction-Attack repository is the PyTorch Implementation of RecSys 2021 Paper [Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction](https://arxiv.org/abs/2109.01165)
